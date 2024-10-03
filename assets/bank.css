@@ -1,0 +1,1962 @@
+.c-bank-logo {
+  background-size: 100% auto;
+  background-image: url('images/all-banks.png');
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 55px;
+  width: 128px
+}
+
+.c-bank-logo--tiny {
+  background-size: 32.5px auto;
+  height: 14px;
+  width: 32px
+}
+
+.c-bank-logo--small {
+  background-size: 69.8px auto;
+  height: 30px;
+  width: 70px
+}
+
+.c-bank-logo--bare {
+  background-size: 55.8px auto;
+  height: 24px;
+  width: 56px
+}
+
+.c-bank-logo--placeholder {
+  background-position: 0 0
+}
+
+.c-bank-logo--tiny.c-bank-logo--placeholder {
+  background-position: 0 2px
+}
+
+.c-bank-logo--small.c-bank-logo--placeholder {
+  background-position: 0 0
+}
+
+.c-bank-logo--bare.c-bank-logo--placeholder {
+  background-position: 0 1px
+}
+
+.c-bank-logo--mandiri {
+  background-position: 0 -55px
+}
+
+.c-bank-logo--tiny.c-bank-logo--mandiri {
+  background-position: 0 -12px
+}
+
+.c-bank-logo--small.c-bank-logo--mandiri {
+  background-position: 0 -30px
+}
+
+.c-bank-logo--bare.c-bank-logo--mandiri {
+  background-position: 0 -23px
+}
+
+.c-bank-logo--bri {
+  background-position: 0 -110px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bri {
+  background-position: 0 -26px
+}
+
+.c-bank-logo--small.c-bank-logo--bri {
+  background-position: 0 -60px
+}
+
+.c-bank-logo--bare.c-bank-logo--bri {
+  background-position: 0 -47px
+}
+
+.c-bank-logo--bri_syr {
+  background-position: 0 -165px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bri_syr {
+  background-position: 0 -40px
+}
+
+.c-bank-logo--small.c-bank-logo--bri_syr {
+  background-position: 0 -90px
+}
+
+.c-bank-logo--bare.c-bank-logo--bri_syr {
+  background-position: 0 -71px
+}
+
+.c-bank-logo--bni {
+  background-position: 0 -220px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bni {
+  background-position: 0 -54px
+}
+
+.c-bank-logo--small.c-bank-logo--bni {
+  background-position: 0 -120px
+}
+
+.c-bank-logo--bare.c-bank-logo--bni {
+  background-position: 0 -95px
+}
+
+.c-bank-logo--bni_va {
+  background-position: 0 -220px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bni_va {
+  background-position: 0 -54px
+}
+
+.c-bank-logo--small.c-bank-logo--bni_va {
+  background-position: 0 -120px
+}
+
+.c-bank-logo--bare.c-bank-logo--bni_va {
+  background-position: 0 -95px
+}
+
+.c-bank-logo--bca {
+  background-position: 0 -275px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bca {
+  background-position: 0 -68px
+}
+
+.c-bank-logo--small.c-bank-logo--bca {
+  background-position: 0 -150px
+}
+
+.c-bank-logo--bare.c-bank-logo--bca {
+  background-position: 0 -119px
+}
+
+.c-bank-logo--bca_syr {
+  background-position: 0 -330px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bca_syr {
+  background-position: 0 -82px
+}
+
+.c-bank-logo--small.c-bank-logo--bca_syr {
+  background-position: 0 -180px
+}
+
+.c-bank-logo--bare.c-bank-logo--bca_syr {
+  background-position: 0 -143px
+}
+
+.c-bank-logo--bsm {
+  background-position: 0 -6215px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bsm {
+  background-position: 0 -1580px
+}
+
+.c-bank-logo--small.c-bank-logo--bsm {
+  background-position: 0 -3390px
+}
+
+.c-bank-logo--bare.c-bank-logo--bsm {
+  background-position: 0 -2711px
+}
+
+.c-bank-logo--cimb {
+  background-position: 0 -440px
+}
+
+.c-bank-logo--tiny.c-bank-logo--cimb {
+  background-position: 0 -110px
+}
+
+.c-bank-logo--small.c-bank-logo--cimb {
+  background-position: 0 -240px
+}
+
+.c-bank-logo--bare.c-bank-logo--cimb {
+  background-position: 0 -191px
+}
+
+.c-bank-logo--muamalat {
+  background-position: 0 -495px
+}
+
+.c-bank-logo--tiny.c-bank-logo--muamalat {
+  background-position: 0 -124px
+}
+
+.c-bank-logo--small.c-bank-logo--muamalat {
+  background-position: 0 -270px
+}
+
+.c-bank-logo--bare.c-bank-logo--muamalat {
+  background-position: 0 -215px
+}
+
+.c-bank-logo--tabungan_pensiunan_nasional {
+  background-position: 0 -550px
+}
+
+.c-bank-logo--tiny.c-bank-logo--tabungan_pensiunan_nasional {
+  background-position: 0 -138px
+}
+
+.c-bank-logo--small.c-bank-logo--tabungan_pensiunan_nasional {
+  background-position: 0 -300px
+}
+
+.c-bank-logo--bare.c-bank-logo--tabungan_pensiunan_nasional {
+  background-position: 0 -239px
+}
+
+.c-bank-logo--permata {
+  background-position: 0 -605px
+}
+
+.c-bank-logo--tiny.c-bank-logo--permata {
+  background-position: 0 -152px
+}
+
+.c-bank-logo--small.c-bank-logo--permata {
+  background-position: 0 -330px
+}
+
+.c-bank-logo--bare.c-bank-logo--permata {
+  background-position: 0 -263px
+}
+
+.c-bank-logo--danamon {
+  background-position: 0 -660px
+}
+
+.c-bank-logo--tiny.c-bank-logo--danamon {
+  background-position: 0 -166px
+}
+
+.c-bank-logo--small.c-bank-logo--danamon {
+  background-position: 0 -360px
+}
+
+.c-bank-logo--bare.c-bank-logo--danamon {
+  background-position: 0 -287px
+}
+
+.c-bank-logo--bii {
+  background-position: 0 -715px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bii {
+  background-position: 0 -180px
+}
+
+.c-bank-logo--small.c-bank-logo--bii {
+  background-position: 0 -390px
+}
+
+.c-bank-logo--bare.c-bank-logo--bii {
+  background-position: 0 -311px
+}
+
+.c-bank-logo--panin {
+  background-position: 0 -770px
+}
+
+.c-bank-logo--tiny.c-bank-logo--panin {
+  background-position: 0 -194px
+}
+
+.c-bank-logo--small.c-bank-logo--panin {
+  background-position: 0 -420px
+}
+
+.c-bank-logo--bare.c-bank-logo--panin {
+  background-position: 0 -335px
+}
+
+.c-bank-logo--uob {
+  background-position: 0 -825px
+}
+
+.c-bank-logo--tiny.c-bank-logo--uob {
+  background-position: 0 -208px
+}
+
+.c-bank-logo--small.c-bank-logo--uob {
+  background-position: 0 -450px
+}
+
+.c-bank-logo--bare.c-bank-logo--uob {
+  background-position: 0 -359px
+}
+
+.c-bank-logo--ocbc {
+  background-position: 0 -880px
+}
+
+.c-bank-logo--tiny.c-bank-logo--ocbc {
+  background-position: 0 -222px
+}
+
+.c-bank-logo--small.c-bank-logo--ocbc {
+  background-position: 0 -480px
+}
+
+.c-bank-logo--bare.c-bank-logo--ocbc {
+  background-position: 0 -383px
+}
+
+.c-bank-logo--citibank {
+  background-position: 0 -935px
+}
+
+.c-bank-logo--tiny.c-bank-logo--citibank {
+  background-position: 0 -236px
+}
+
+.c-bank-logo--small.c-bank-logo--citibank {
+  background-position: 0 -510px
+}
+
+.c-bank-logo--bare.c-bank-logo--citibank {
+  background-position: 0 -407px
+}
+
+.c-bank-logo--artha {
+  background-position: 0 -990px
+}
+
+.c-bank-logo--tiny.c-bank-logo--artha {
+  background-position: 0 -250px
+}
+
+.c-bank-logo--small.c-bank-logo--artha {
+  background-position: 0 -540px
+}
+
+.c-bank-logo--bare.c-bank-logo--artha {
+  background-position: 0 -431px
+}
+
+.c-bank-logo--tokyo {
+  background-position: 0 -1045px
+}
+
+.c-bank-logo--tiny.c-bank-logo--tokyo {
+  background-position: 0 -264px
+}
+
+.c-bank-logo--small.c-bank-logo--tokyo {
+  background-position: 0 -570px
+}
+
+.c-bank-logo--bare.c-bank-logo--tokyo {
+  background-position: 0 -455px
+}
+
+.c-bank-logo--dbs {
+  background-position: 0 -1100px
+}
+
+.c-bank-logo--tiny.c-bank-logo--dbs {
+  background-position: 0 -278px
+}
+
+.c-bank-logo--small.c-bank-logo--dbs {
+  background-position: 0 -600px
+}
+
+.c-bank-logo--bare.c-bank-logo--dbs {
+  background-position: 0 -479px
+}
+
+.c-bank-logo--standard_chartered {
+  background-position: 0 -1155px
+}
+
+.c-bank-logo--tiny.c-bank-logo--standard_chartered {
+  background-position: 0 -292px
+}
+
+.c-bank-logo--small.c-bank-logo--standard_chartered {
+  background-position: 0 -630px
+}
+
+.c-bank-logo--bare.c-bank-logo--standard_chartered {
+  background-position: 0 -503px
+}
+
+.c-bank-logo--capital {
+  background-position: 0 -1210px
+}
+
+.c-bank-logo--tiny.c-bank-logo--capital {
+  background-position: 0 -306px
+}
+
+.c-bank-logo--small.c-bank-logo--capital {
+  background-position: 0 -660px
+}
+
+.c-bank-logo--bare.c-bank-logo--capital {
+  background-position: 0 -527px
+}
+
+.c-bank-logo--anz {
+  background-position: 0 -1265px
+}
+
+.c-bank-logo--tiny.c-bank-logo--anz {
+  background-position: 0 -320px
+}
+
+.c-bank-logo--small.c-bank-logo--anz {
+  background-position: 0 -690px
+}
+
+.c-bank-logo--bare.c-bank-logo--anz {
+  background-position: 0 -551px
+}
+
+.c-bank-logo--boc {
+  background-position: 0 -1320px
+}
+
+.c-bank-logo--tiny.c-bank-logo--boc {
+  background-position: 0 -334px
+}
+
+.c-bank-logo--small.c-bank-logo--boc {
+  background-position: 0 -720px
+}
+
+.c-bank-logo--bare.c-bank-logo--boc {
+  background-position: 0 -575px
+}
+
+.c-bank-logo--bumi_arta {
+  background-position: 0 -1375px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bumi_arta {
+  background-position: 0 -348px
+}
+
+.c-bank-logo--small.c-bank-logo--bumi_arta {
+  background-position: 0 -750px
+}
+
+.c-bank-logo--bare.c-bank-logo--bumi_arta {
+  background-position: 0 -599px
+}
+
+.c-bank-logo--hsbc {
+  background-position: 0 -1430px
+}
+
+.c-bank-logo--tiny.c-bank-logo--hsbc {
+  background-position: 0 -362px
+}
+
+.c-bank-logo--small.c-bank-logo--hsbc {
+  background-position: 0 -780px
+}
+
+.c-bank-logo--bare.c-bank-logo--hsbc {
+  background-position: 0 -623px
+}
+
+.c-bank-logo--rabobank {
+  background-position: 0 -1485px
+}
+
+.c-bank-logo--tiny.c-bank-logo--rabobank {
+  background-position: 0 -376px
+}
+
+.c-bank-logo--small.c-bank-logo--rabobank {
+  background-position: 0 -810px
+}
+
+.c-bank-logo--bare.c-bank-logo--rabobank {
+  background-position: 0 -647px
+}
+
+.c-bank-logo--mayapada {
+  background-position: 0 -1540px
+}
+
+.c-bank-logo--tiny.c-bank-logo--mayapada {
+  background-position: 0 -390px
+}
+
+.c-bank-logo--small.c-bank-logo--mayapada {
+  background-position: 0 -840px
+}
+
+.c-bank-logo--bare.c-bank-logo--mayapada {
+  background-position: 0 -671px
+}
+
+.c-bank-logo--bjb {
+  background-position: 0 -1595px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bjb {
+  background-position: 0 -404px
+}
+
+.c-bank-logo--small.c-bank-logo--bjb {
+  background-position: 0 -870px
+}
+
+.c-bank-logo--bare.c-bank-logo--bjb {
+  background-position: 0 -695px
+}
+
+.c-bank-logo--bjb_syr {
+  background-position: 0 -1650px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bjb_syr {
+  background-position: 0 -418px
+}
+
+.c-bank-logo--small.c-bank-logo--bjb_syr {
+  background-position: 0 -900px
+}
+
+.c-bank-logo--bare.c-bank-logo--bjb_syr {
+  background-position: 0 -719px
+}
+
+.c-bank-logo--dki {
+  background-position: 0 -1705px
+}
+
+.c-bank-logo--tiny.c-bank-logo--dki {
+  background-position: 0 -432px
+}
+
+.c-bank-logo--small.c-bank-logo--dki {
+  background-position: 0 -930px
+}
+
+.c-bank-logo--bare.c-bank-logo--dki {
+  background-position: 0 -743px
+}
+
+.c-bank-logo--daerah_istimewa {
+  background-position: 0 -1760px
+}
+
+.c-bank-logo--tiny.c-bank-logo--daerah_istimewa {
+  background-position: 0 -446px
+}
+
+.c-bank-logo--small.c-bank-logo--daerah_istimewa {
+  background-position: 0 -960px
+}
+
+.c-bank-logo--bare.c-bank-logo--daerah_istimewa {
+  background-position: 0 -767px
+}
+
+.c-bank-logo--jawa_tengah {
+  background-position: 0 -1815px
+}
+
+.c-bank-logo--tiny.c-bank-logo--jawa_tengah {
+  background-position: 0 -460px
+}
+
+.c-bank-logo--small.c-bank-logo--jawa_tengah {
+  background-position: 0 -990px
+}
+
+.c-bank-logo--bare.c-bank-logo--jawa_tengah {
+  background-position: 0 -791px
+}
+
+.c-bank-logo--jawa_timur {
+  background-position: 0 -1870px
+}
+
+.c-bank-logo--tiny.c-bank-logo--jawa_timur {
+  background-position: 0 -474px
+}
+
+.c-bank-logo--small.c-bank-logo--jawa_timur {
+  background-position: 0 -1020px
+}
+
+.c-bank-logo--bare.c-bank-logo--jawa_timur {
+  background-position: 0 -815px
+}
+
+.c-bank-logo--jambi {
+  background-position: 0 -1925px
+}
+
+.c-bank-logo--tiny.c-bank-logo--jambi {
+  background-position: 0 -488px
+}
+
+.c-bank-logo--small.c-bank-logo--jambi {
+  background-position: 0 -1050px
+}
+
+.c-bank-logo--bare.c-bank-logo--jambi {
+  background-position: 0 -839px
+}
+
+.c-bank-logo--sumut {
+  background-position: 0 -1980px
+}
+
+.c-bank-logo--tiny.c-bank-logo--sumut {
+  background-position: 0 -502px
+}
+
+.c-bank-logo--small.c-bank-logo--sumut {
+  background-position: 0 -1080px
+}
+
+.c-bank-logo--bare.c-bank-logo--sumut {
+  background-position: 0 -863px
+}
+
+.c-bank-logo--sumatera_barat {
+  background-position: 0 -2035px
+}
+
+.c-bank-logo--tiny.c-bank-logo--sumatera_barat {
+  background-position: 0 -516px
+}
+
+.c-bank-logo--small.c-bank-logo--sumatera_barat {
+  background-position: 0 -1110px
+}
+
+.c-bank-logo--bare.c-bank-logo--sumatera_barat {
+  background-position: 0 -887px
+}
+
+.c-bank-logo--riau_dan_kepri {
+  background-position: 0 -2090px
+}
+
+.c-bank-logo--tiny.c-bank-logo--riau_dan_kepri {
+  background-position: 0 -530px
+}
+
+.c-bank-logo--small.c-bank-logo--riau_dan_kepri {
+  background-position: 0 -1140px
+}
+
+.c-bank-logo--bare.c-bank-logo--riau_dan_kepri {
+  background-position: 0 -911px
+}
+
+.c-bank-logo--sumsel_dan_babel {
+  background-position: 0 -2145px
+}
+
+.c-bank-logo--tiny.c-bank-logo--sumsel_dan_babel {
+  background-position: 0 -544px
+}
+
+.c-bank-logo--small.c-bank-logo--sumsel_dan_babel {
+  background-position: 0 -1170px
+}
+
+.c-bank-logo--bare.c-bank-logo--sumsel_dan_babel {
+  background-position: 0 -935px
+}
+
+.c-bank-logo--lampung {
+  background-position: 0 -2200px
+}
+
+.c-bank-logo--tiny.c-bank-logo--lampung {
+  background-position: 0 -558px
+}
+
+.c-bank-logo--small.c-bank-logo--lampung {
+  background-position: 0 -1200px
+}
+
+.c-bank-logo--bare.c-bank-logo--lampung {
+  background-position: 0 -959px
+}
+
+.c-bank-logo--kalimantan_selatan {
+  background-position: 0 -2255px
+}
+
+.c-bank-logo--tiny.c-bank-logo--kalimantan_selatan {
+  background-position: 0 -572px
+}
+
+.c-bank-logo--small.c-bank-logo--kalimantan_selatan {
+  background-position: 0 -1230px
+}
+
+.c-bank-logo--bare.c-bank-logo--kalimantan_selatan {
+  background-position: 0 -983px
+}
+
+.c-bank-logo--kalimantan_barat {
+  background-position: 0 -2310px
+}
+
+.c-bank-logo--tiny.c-bank-logo--kalimantan_barat {
+  background-position: 0 -586px
+}
+
+.c-bank-logo--small.c-bank-logo--kalimantan_barat {
+  background-position: 0 -1260px
+}
+
+.c-bank-logo--bare.c-bank-logo--kalimantan_barat {
+  background-position: 0 -1007px
+}
+
+.c-bank-logo--kalimantan_timur {
+  background-position: 0 -2365px
+}
+
+.c-bank-logo--tiny.c-bank-logo--kalimantan_timur {
+  background-position: 0 -600px
+}
+
+.c-bank-logo--small.c-bank-logo--kalimantan_timur {
+  background-position: 0 -1290px
+}
+
+.c-bank-logo--bare.c-bank-logo--kalimantan_timur {
+  background-position: 0 -1031px
+}
+
+.c-bank-logo--kalimantan_tengah {
+  background-position: 0 -2420px
+}
+
+.c-bank-logo--tiny.c-bank-logo--kalimantan_tengah {
+  background-position: 0 -614px
+}
+
+.c-bank-logo--small.c-bank-logo--kalimantan_tengah {
+  background-position: 0 -1320px
+}
+
+.c-bank-logo--bare.c-bank-logo--kalimantan_tengah {
+  background-position: 0 -1055px
+}
+
+.c-bank-logo--sulselbar {
+  background-position: 0 -2475px
+}
+
+.c-bank-logo--tiny.c-bank-logo--sulselbar {
+  background-position: 0 -628px
+}
+
+.c-bank-logo--small.c-bank-logo--sulselbar {
+  background-position: 0 -1350px
+}
+
+.c-bank-logo--bare.c-bank-logo--sulselbar {
+  background-position: 0 -1079px
+}
+
+.c-bank-logo--sulut {
+  background-position: 0 -2530px
+}
+
+.c-bank-logo--tiny.c-bank-logo--sulut {
+  background-position: 0 -642px
+}
+
+.c-bank-logo--small.c-bank-logo--sulut {
+  background-position: 0 -1380px
+}
+
+.c-bank-logo--bare.c-bank-logo--sulut {
+  background-position: 0 -1103px
+}
+
+.c-bank-logo--nusa_tenggara_barat {
+  background-position: 0 -2585px
+}
+
+.c-bank-logo--tiny.c-bank-logo--nusa_tenggara_barat {
+  background-position: 0 -656px
+}
+
+.c-bank-logo--small.c-bank-logo--nusa_tenggara_barat {
+  background-position: 0 -1410px
+}
+
+.c-bank-logo--bare.c-bank-logo--nusa_tenggara_barat {
+  background-position: 0 -1127px
+}
+
+.c-bank-logo--bali {
+  background-position: 0 -2640px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bali {
+  background-position: 0 -670px
+}
+
+.c-bank-logo--small.c-bank-logo--bali {
+  background-position: 0 -1440px
+}
+
+.c-bank-logo--bare.c-bank-logo--bali {
+  background-position: 0 -1151px
+}
+
+.c-bank-logo--nusa_tenggara_timur {
+  background-position: 0 -2695px
+}
+
+.c-bank-logo--tiny.c-bank-logo--nusa_tenggara_timur {
+  background-position: 0 -684px
+}
+
+.c-bank-logo--small.c-bank-logo--nusa_tenggara_timur {
+  background-position: 0 -1470px
+}
+
+.c-bank-logo--bare.c-bank-logo--nusa_tenggara_timur {
+  background-position: 0 -1175px
+}
+
+.c-bank-logo--maluku {
+  background-position: 0 -2750px
+}
+
+.c-bank-logo--tiny.c-bank-logo--maluku {
+  background-position: 0 -698px
+}
+
+.c-bank-logo--small.c-bank-logo--maluku {
+  background-position: 0 -1500px
+}
+
+.c-bank-logo--bare.c-bank-logo--maluku {
+  background-position: 0 -1199px
+}
+
+.c-bank-logo--papua {
+  background-position: 0 -2805px
+}
+
+.c-bank-logo--tiny.c-bank-logo--papua {
+  background-position: 0 -712px
+}
+
+.c-bank-logo--small.c-bank-logo--papua {
+  background-position: 0 -1530px
+}
+
+.c-bank-logo--bare.c-bank-logo--papua {
+  background-position: 0 -1223px
+}
+
+.c-bank-logo--bengkulu {
+  background-position: 0 -2860px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bengkulu {
+  background-position: 0 -726px
+}
+
+.c-bank-logo--small.c-bank-logo--bengkulu {
+  background-position: 0 -1560px
+}
+
+.c-bank-logo--bare.c-bank-logo--bengkulu {
+  background-position: 0 -1247px
+}
+
+.c-bank-logo--sulawesi {
+  background-position: 0 -2915px
+}
+
+.c-bank-logo--tiny.c-bank-logo--sulawesi {
+  background-position: 0 -740px
+}
+
+.c-bank-logo--small.c-bank-logo--sulawesi {
+  background-position: 0 -1590px
+}
+
+.c-bank-logo--bare.c-bank-logo--sulawesi {
+  background-position: 0 -1271px
+}
+
+.c-bank-logo--sulawesi_tenggara {
+  background-position: 0 -2970px
+}
+
+.c-bank-logo--tiny.c-bank-logo--sulawesi_tenggara {
+  background-position: 0 -754px
+}
+
+.c-bank-logo--small.c-bank-logo--sulawesi_tenggara {
+  background-position: 0 -1620px
+}
+
+.c-bank-logo--bare.c-bank-logo--sulawesi_tenggara {
+  background-position: 0 -1295px
+}
+
+.c-bank-logo--nusantara_parahyangan {
+  background-position: 0 -3025px
+}
+
+.c-bank-logo--tiny.c-bank-logo--nusantara_parahyangan {
+  background-position: 0 -768px
+}
+
+.c-bank-logo--small.c-bank-logo--nusantara_parahyangan {
+  background-position: 0 -1650px
+}
+
+.c-bank-logo--bare.c-bank-logo--nusantara_parahyangan {
+  background-position: 0 -1319px
+}
+
+.c-bank-logo--india {
+  background-position: 0 -3080px
+}
+
+.c-bank-logo--tiny.c-bank-logo--india {
+  background-position: 0 -782px
+}
+
+.c-bank-logo--small.c-bank-logo--india {
+  background-position: 0 -1680px
+}
+
+.c-bank-logo--bare.c-bank-logo--india {
+  background-position: 0 -1343px
+}
+
+.c-bank-logo--mestika_dharma {
+  background-position: 0 -3135px
+}
+
+.c-bank-logo--tiny.c-bank-logo--mestika_dharma {
+  background-position: 0 -796px
+}
+
+.c-bank-logo--small.c-bank-logo--mestika_dharma {
+  background-position: 0 -1710px
+}
+
+.c-bank-logo--bare.c-bank-logo--mestika_dharma {
+  background-position: 0 -1367px
+}
+
+.c-bank-logo--sinarmas {
+  background-position: 0 -3190px
+}
+
+.c-bank-logo--tiny.c-bank-logo--sinarmas {
+  background-position: 0 -810px
+}
+
+.c-bank-logo--small.c-bank-logo--sinarmas {
+  background-position: 0 -1740px
+}
+
+.c-bank-logo--bare.c-bank-logo--sinarmas {
+  background-position: 0 -1391px
+}
+
+.c-bank-logo--maspion {
+  background-position: 0 -3245px
+}
+
+.c-bank-logo--tiny.c-bank-logo--maspion {
+  background-position: 0 -824px
+}
+
+.c-bank-logo--small.c-bank-logo--maspion {
+  background-position: 0 -1770px
+}
+
+.c-bank-logo--bare.c-bank-logo--maspion {
+  background-position: 0 -1415px
+}
+
+.c-bank-logo--ganesha {
+  background-position: 0 -3300px
+}
+
+.c-bank-logo--tiny.c-bank-logo--ganesha {
+  background-position: 0 -838px
+}
+
+.c-bank-logo--small.c-bank-logo--ganesha {
+  background-position: 0 -1800px
+}
+
+.c-bank-logo--bare.c-bank-logo--ganesha {
+  background-position: 0 -1439px
+}
+
+.c-bank-logo--icbc {
+  background-position: 0 -3355px
+}
+
+.c-bank-logo--tiny.c-bank-logo--icbc {
+  background-position: 0 -852px
+}
+
+.c-bank-logo--small.c-bank-logo--icbc {
+  background-position: 0 -1830px
+}
+
+.c-bank-logo--bare.c-bank-logo--icbc {
+  background-position: 0 -1463px
+}
+
+.c-bank-logo--qnb_kesawan {
+  background-position: 0 -3410px
+}
+
+.c-bank-logo--tiny.c-bank-logo--qnb_kesawan {
+  background-position: 0 -866px
+}
+
+.c-bank-logo--small.c-bank-logo--qnb_kesawan {
+  background-position: 0 -1860px
+}
+
+.c-bank-logo--bare.c-bank-logo--qnb_kesawan {
+  background-position: 0 -1487px
+}
+
+.c-bank-logo--btn {
+  background-position: 0 -3465px
+}
+
+.c-bank-logo--tiny.c-bank-logo--btn {
+  background-position: 0 -880px
+}
+
+.c-bank-logo--small.c-bank-logo--btn {
+  background-position: 0 -1890px
+}
+
+.c-bank-logo--bare.c-bank-logo--btn {
+  background-position: 0 -1511px
+}
+
+.c-bank-logo--woori {
+  background-position: 0 -3520px
+}
+
+.c-bank-logo--tiny.c-bank-logo--woori {
+  background-position: 0 -894px
+}
+
+.c-bank-logo--small.c-bank-logo--woori {
+  background-position: 0 -1920px
+}
+
+.c-bank-logo--bare.c-bank-logo--woori {
+  background-position: 0 -1535px
+}
+
+.c-bank-logo--mega {
+  background-position: 0 -3575px
+}
+
+.c-bank-logo--tiny.c-bank-logo--mega {
+  background-position: 0 -908px
+}
+
+.c-bank-logo--small.c-bank-logo--mega {
+  background-position: 0 -1950px
+}
+
+.c-bank-logo--bare.c-bank-logo--mega {
+  background-position: 0 -1559px
+}
+
+.c-bank-logo--bukopin {
+  background-position: 0 -3630px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bukopin {
+  background-position: 0 -922px
+}
+
+.c-bank-logo--small.c-bank-logo--bukopin {
+  background-position: 0 -1980px
+}
+
+.c-bank-logo--bare.c-bank-logo--bukopin {
+  background-position: 0 -1583px
+}
+
+.c-bank-logo--jasa_jakarta {
+  background-position: 0 -3685px
+}
+
+.c-bank-logo--tiny.c-bank-logo--jasa_jakarta {
+  background-position: 0 -936px
+}
+
+.c-bank-logo--small.c-bank-logo--jasa_jakarta {
+  background-position: 0 -2010px
+}
+
+.c-bank-logo--bare.c-bank-logo--jasa_jakarta {
+  background-position: 0 -1607px
+}
+
+.c-bank-logo--hana {
+  background-position: 0 -3740px
+}
+
+.c-bank-logo--tiny.c-bank-logo--hana {
+  background-position: 0 -950px
+}
+
+.c-bank-logo--small.c-bank-logo--hana {
+  background-position: 0 -2040px
+}
+
+.c-bank-logo--bare.c-bank-logo--hana {
+  background-position: 0 -1631px
+}
+
+.c-bank-logo--mnc_internasional {
+  background-position: 0 -3795px
+}
+
+.c-bank-logo--tiny.c-bank-logo--mnc_internasional {
+  background-position: 0 -964px
+}
+
+.c-bank-logo--small.c-bank-logo--mnc_internasional {
+  background-position: 0 -2070px
+}
+
+.c-bank-logo--bare.c-bank-logo--mnc_internasional {
+  background-position: 0 -1655px
+}
+
+.c-bank-logo--agroniaga {
+  background-position: 0 -3850px
+}
+
+.c-bank-logo--tiny.c-bank-logo--agroniaga {
+  background-position: 0 -978px
+}
+
+.c-bank-logo--small.c-bank-logo--agroniaga {
+  background-position: 0 -2100px
+}
+
+.c-bank-logo--bare.c-bank-logo--agroniaga {
+  background-position: 0 -1679px
+}
+
+.c-bank-logo--sbi_indonesia {
+  background-position: 0 -3905px
+}
+
+.c-bank-logo--tiny.c-bank-logo--sbi_indonesia {
+  background-position: 0 -992px
+}
+
+.c-bank-logo--small.c-bank-logo--sbi_indonesia {
+  background-position: 0 -2130px
+}
+
+.c-bank-logo--bare.c-bank-logo--sbi_indonesia {
+  background-position: 0 -1703px
+}
+
+.c-bank-logo--royal {
+  background-position: 0 -3960px
+}
+
+.c-bank-logo--tiny.c-bank-logo--royal {
+  background-position: 0 -1006px
+}
+
+.c-bank-logo--small.c-bank-logo--royal {
+  background-position: 0 -2160px
+}
+
+.c-bank-logo--bare.c-bank-logo--royal {
+  background-position: 0 -1727px
+}
+
+.c-bank-logo--nationalnobu {
+  background-position: 0 -4015px
+}
+
+.c-bank-logo--tiny.c-bank-logo--nationalnobu {
+  background-position: 0 -1020px
+}
+
+.c-bank-logo--small.c-bank-logo--nationalnobu {
+  background-position: 0 -2190px
+}
+
+.c-bank-logo--bare.c-bank-logo--nationalnobu {
+  background-position: 0 -1751px
+}
+
+.c-bank-logo--mega_syr {
+  background-position: 0 -4070px
+}
+
+.c-bank-logo--tiny.c-bank-logo--mega_syr {
+  background-position: 0 -1034px
+}
+
+.c-bank-logo--small.c-bank-logo--mega_syr {
+  background-position: 0 -2220px
+}
+
+.c-bank-logo--bare.c-bank-logo--mega_syr {
+  background-position: 0 -1775px
+}
+
+.c-bank-logo--ina_perdana {
+  background-position: 0 -4125px
+}
+
+.c-bank-logo--tiny.c-bank-logo--ina_perdana {
+  background-position: 0 -1048px
+}
+
+.c-bank-logo--small.c-bank-logo--ina_perdana {
+  background-position: 0 -2250px
+}
+
+.c-bank-logo--bare.c-bank-logo--ina_perdana {
+  background-position: 0 -1799px
+}
+
+.c-bank-logo--sahabat_sampoerna {
+  background-position: 0 -4180px
+}
+
+.c-bank-logo--tiny.c-bank-logo--sahabat_sampoerna {
+  background-position: 0 -1062px
+}
+
+.c-bank-logo--small.c-bank-logo--sahabat_sampoerna {
+  background-position: 0 -2280px
+}
+
+.c-bank-logo--bare.c-bank-logo--sahabat_sampoerna {
+  background-position: 0 -1823px
+}
+
+.c-bank-logo--kesejahteraan_ekonomi {
+  background-position: 0 -4235px
+}
+
+.c-bank-logo--tiny.c-bank-logo--kesejahteraan_ekonomi {
+  background-position: 0 -1076px
+}
+
+.c-bank-logo--small.c-bank-logo--kesejahteraan_ekonomi {
+  background-position: 0 -2310px
+}
+
+.c-bank-logo--bare.c-bank-logo--kesejahteraan_ekonomi {
+  background-position: 0 -1847px
+}
+
+.c-bank-logo--artos {
+  background-position: 0 -4290px
+}
+
+.c-bank-logo--tiny.c-bank-logo--artos {
+  background-position: 0 -1090px
+}
+
+.c-bank-logo--small.c-bank-logo--artos {
+  background-position: 0 -2340px
+}
+
+.c-bank-logo--bare.c-bank-logo--artos {
+  background-position: 0 -1871px
+}
+
+.c-bank-logo--mayora {
+  background-position: 0 -4345px
+}
+
+.c-bank-logo--tiny.c-bank-logo--mayora {
+  background-position: 0 -1104px
+}
+
+.c-bank-logo--small.c-bank-logo--mayora {
+  background-position: 0 -2370px
+}
+
+.c-bank-logo--bare.c-bank-logo--mayora {
+  background-position: 0 -1895px
+}
+
+.c-bank-logo--index_selindo {
+  background-position: 0 -4400px
+}
+
+.c-bank-logo--tiny.c-bank-logo--index_selindo {
+  background-position: 0 -1118px
+}
+
+.c-bank-logo--small.c-bank-logo--index_selindo {
+  background-position: 0 -2400px
+}
+
+.c-bank-logo--bare.c-bank-logo--index_selindo {
+  background-position: 0 -1919px
+}
+
+.c-bank-logo--victoria_internasional {
+  background-position: 0 -4455px
+}
+
+.c-bank-logo--tiny.c-bank-logo--victoria_internasional {
+  background-position: 0 -1132px
+}
+
+.c-bank-logo--small.c-bank-logo--victoria_internasional {
+  background-position: 0 -2430px
+}
+
+.c-bank-logo--bare.c-bank-logo--victoria_internasional {
+  background-position: 0 -1943px
+}
+
+.c-bank-logo--agris {
+  background-position: 0 -4510px
+}
+
+.c-bank-logo--tiny.c-bank-logo--agris {
+  background-position: 0 -1146px
+}
+
+.c-bank-logo--small.c-bank-logo--agris {
+  background-position: 0 -2460px
+}
+
+.c-bank-logo--bare.c-bank-logo--agris {
+  background-position: 0 -1967px
+}
+
+.c-bank-logo--chinatrust {
+  background-position: 0 -4565px
+}
+
+.c-bank-logo--tiny.c-bank-logo--chinatrust {
+  background-position: 0 -1160px
+}
+
+.c-bank-logo--small.c-bank-logo--chinatrust {
+  background-position: 0 -2490px
+}
+
+.c-bank-logo--bare.c-bank-logo--chinatrust {
+  background-position: 0 -1991px
+}
+
+.c-bank-logo--commonwealth {
+  background-position: 0 -4620px
+}
+
+.c-bank-logo--tiny.c-bank-logo--commonwealth {
+  background-position: 0 -1174px
+}
+
+.c-bank-logo--small.c-bank-logo--commonwealth {
+  background-position: 0 -2520px
+}
+
+.c-bank-logo--bare.c-bank-logo--commonwealth {
+  background-position: 0 -2015px
+}
+
+.c-bank-logo--ccb {
+  background-position: 0 -4675px
+}
+
+.c-bank-logo--tiny.c-bank-logo--ccb {
+  background-position: 0 -1188px
+}
+
+.c-bank-logo--small.c-bank-logo--ccb {
+  background-position: 0 -2550px
+}
+
+.c-bank-logo--bare.c-bank-logo--ccb {
+  background-position: 0 -2039px
+}
+
+.c-bank-logo--danamon_syr {
+  background-position: 0 -4730px
+}
+
+.c-bank-logo--tiny.c-bank-logo--danamon_syr {
+  background-position: 0 -1202px
+}
+
+.c-bank-logo--small.c-bank-logo--danamon_syr {
+  background-position: 0 -2580px
+}
+
+.c-bank-logo--bare.c-bank-logo--danamon_syr {
+  background-position: 0 -2063px
+}
+
+.c-bank-logo--victoria_syr {
+  background-position: 0 -4785px
+}
+
+.c-bank-logo--tiny.c-bank-logo--victoria_syr {
+  background-position: 0 -1216px
+}
+
+.c-bank-logo--small.c-bank-logo--victoria_syr {
+  background-position: 0 -2610px
+}
+
+.c-bank-logo--bare.c-bank-logo--victoria_syr {
+  background-position: 0 -2087px
+}
+
+.c-bank-logo--banten {
+  background-position: 0 -4840px
+}
+
+.c-bank-logo--tiny.c-bank-logo--banten {
+  background-position: 0 -1230px
+}
+
+.c-bank-logo--small.c-bank-logo--banten {
+  background-position: 0 -2640px
+}
+
+.c-bank-logo--bare.c-bank-logo--banten {
+  background-position: 0 -2111px
+}
+
+.c-bank-logo--mutiara {
+  background-position: 0 -4895px
+}
+
+.c-bank-logo--tiny.c-bank-logo--mutiara {
+  background-position: 0 -1244px
+}
+
+.c-bank-logo--small.c-bank-logo--mutiara {
+  background-position: 0 -2670px
+}
+
+.c-bank-logo--bare.c-bank-logo--mutiara {
+  background-position: 0 -2135px
+}
+
+.c-bank-logo--panin_syr {
+  background-position: 0 -4950px
+}
+
+.c-bank-logo--tiny.c-bank-logo--panin_syr {
+  background-position: 0 -1258px
+}
+
+.c-bank-logo--small.c-bank-logo--panin_syr {
+  background-position: 0 -2700px
+}
+
+.c-bank-logo--bare.c-bank-logo--panin_syr {
+  background-position: 0 -2159px
+}
+
+.c-bank-logo--gopay {
+  background-position: 0 -5005px
+}
+
+.c-bank-logo--tiny.c-bank-logo--gopay {
+  background-position: 0 -1272px
+}
+
+.c-bank-logo--small.c-bank-logo--gopay {
+  background-position: 0 -2730px
+}
+
+.c-bank-logo--bare.c-bank-logo--gopay {
+  background-position: 0 -2183px
+}
+
+.c-bank-logo--e2pay {
+  background-position: 0 -5060px
+}
+
+.c-bank-logo--tiny.c-bank-logo--e2pay {
+  background-position: 0 -1286px
+}
+
+.c-bank-logo--small.c-bank-logo--e2pay {
+  background-position: 0 -2760px
+}
+
+.c-bank-logo--bare.c-bank-logo--e2pay {
+  background-position: 0 -2207px
+}
+
+.c-bank-logo--ovo {
+  background-position: 0 -5115px
+}
+
+.c-bank-logo--tiny.c-bank-logo--ovo {
+  background-position: 0 -1300px
+}
+
+.c-bank-logo--small.c-bank-logo--ovo {
+  background-position: 0 -2790px
+}
+
+.c-bank-logo--bare.c-bank-logo--ovo {
+  background-position: 0 -2231px
+}
+
+.c-bank-logo--dana {
+  background-position: 0 -5170px
+}
+
+.c-bank-logo--tiny.c-bank-logo--dana {
+  background-position: 0 -1314px
+}
+
+.c-bank-logo--small.c-bank-logo--dana {
+  background-position: 0 -2820px
+}
+
+.c-bank-logo--bare.c-bank-logo--dana {
+  background-position: 0 -2255px
+}
+
+.c-bank-logo--dompetku {
+  background-position: 0 -5225px
+}
+
+.c-bank-logo--tiny.c-bank-logo--dompetku {
+  background-position: 0 -1328px
+}
+
+.c-bank-logo--small.c-bank-logo--dompetku {
+  background-position: 0 -2850px
+}
+
+.c-bank-logo--bare.c-bank-logo--dompetku {
+  background-position: 0 -2279px
+}
+
+.c-bank-logo--finnet {
+  background-position: 0 -5280px
+}
+
+.c-bank-logo--tiny.c-bank-logo--finnet {
+  background-position: 0 -1342px
+}
+
+.c-bank-logo--small.c-bank-logo--finnet {
+  background-position: 0 -2880px
+}
+
+.c-bank-logo--bare.c-bank-logo--finnet {
+  background-position: 0 -2303px
+}
+
+.c-bank-logo--shopeepay {
+  background-position: 0 -5335px
+}
+
+.c-bank-logo--tiny.c-bank-logo--shopeepay {
+  background-position: 0 -1356px
+}
+
+.c-bank-logo--small.c-bank-logo--shopeepay {
+  background-position: 0 -2910px
+}
+
+.c-bank-logo--bare.c-bank-logo--shopeepay {
+  background-position: 0 -2327px
+}
+
+.c-bank-logo--linkaja {
+  background-position: 0 -5390px
+}
+
+.c-bank-logo--tiny.c-bank-logo--linkaja {
+  background-position: 0 -1370px
+}
+
+.c-bank-logo--small.c-bank-logo--linkaja {
+  background-position: 0 -2940px
+}
+
+.c-bank-logo--bare.c-bank-logo--linkaja {
+  background-position: 0 -2351px
+}
+
+.c-bank-logo--doku {
+  background-position: 0 -5445px
+}
+
+.c-bank-logo--tiny.c-bank-logo--doku {
+  background-position: 0 -1384px
+}
+
+.c-bank-logo--small.c-bank-logo--doku {
+  background-position: 0 -2970px
+}
+
+.c-bank-logo--bare.c-bank-logo--doku {
+  background-position: 0 -2375px
+}
+
+.c-bank-logo--aceh {
+  background-position: 0 -5500px
+}
+
+.c-bank-logo--tiny.c-bank-logo--aceh {
+  background-position: 0 -1398px
+}
+
+.c-bank-logo--small.c-bank-logo--aceh {
+  background-position: 0 -3000px
+}
+
+.c-bank-logo--bare.c-bank-logo--aceh {
+  background-position: 0 -2399px
+}
+
+.c-bank-logo--antardaerah {
+  background-position: 0 -5555px
+}
+
+.c-bank-logo--tiny.c-bank-logo--antardaerah {
+  background-position: 0 -1412px
+}
+
+.c-bank-logo--small.c-bank-logo--antardaerah {
+  background-position: 0 -3030px
+}
+
+.c-bank-logo--bare.c-bank-logo--antardaerah {
+  background-position: 0 -2423px
+}
+
+.c-bank-logo--btpn_syr {
+  background-position: 0 -5610px
+}
+
+.c-bank-logo--tiny.c-bank-logo--btpn_syr {
+  background-position: 0 -1426px
+}
+
+.c-bank-logo--small.c-bank-logo--btpn_syr {
+  background-position: 0 -3060px
+}
+
+.c-bank-logo--bare.c-bank-logo--btpn_syr {
+  background-position: 0 -2447px
+}
+
+.c-bank-logo--bukopin_syr {
+  background-position: 0 -5665px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bukopin_syr {
+  background-position: 0 -1440px
+}
+
+.c-bank-logo--small.c-bank-logo--bukopin_syr {
+  background-position: 0 -3090px
+}
+
+.c-bank-logo--bare.c-bank-logo--bukopin_syr {
+  background-position: 0 -2471px
+}
+
+.c-bank-logo--cnb {
+  background-position: 0 -5720px
+}
+
+.c-bank-logo--tiny.c-bank-logo--cnb {
+  background-position: 0 -1454px
+}
+
+.c-bank-logo--small.c-bank-logo--cnb {
+  background-position: 0 -3120px
+}
+
+.c-bank-logo--bare.c-bank-logo--cnb {
+  background-position: 0 -2495px
+}
+
+.c-bank-logo--dinar {
+  background-position: 0 -5775px
+}
+
+.c-bank-logo--tiny.c-bank-logo--dinar {
+  background-position: 0 -1468px
+}
+
+.c-bank-logo--small.c-bank-logo--dinar {
+  background-position: 0 -3150px
+}
+
+.c-bank-logo--bare.c-bank-logo--dinar {
+  background-position: 0 -2519px
+}
+
+.c-bank-logo--eka {
+  background-position: 0 -5830px
+}
+
+.c-bank-logo--tiny.c-bank-logo--eka {
+  background-position: 0 -1482px
+}
+
+.c-bank-logo--small.c-bank-logo--eka {
+  background-position: 0 -3180px
+}
+
+.c-bank-logo--bare.c-bank-logo--eka {
+  background-position: 0 -2543px
+}
+
+.c-bank-logo--harda {
+  background-position: 0 -5885px
+}
+
+.c-bank-logo--tiny.c-bank-logo--harda {
+  background-position: 0 -1496px
+}
+
+.c-bank-logo--small.c-bank-logo--harda {
+  background-position: 0 -3210px
+}
+
+.c-bank-logo--bare.c-bank-logo--harda {
+  background-position: 0 -2567px
+}
+
+.c-bank-logo--mantap {
+  background-position: 0 -5940px
+}
+
+.c-bank-logo--tiny.c-bank-logo--mantap {
+  background-position: 0 -1510px
+}
+
+.c-bank-logo--small.c-bank-logo--mantap {
+  background-position: 0 -3240px
+}
+
+.c-bank-logo--bare.c-bank-logo--mantap {
+  background-position: 0 -2591px
+}
+
+.c-bank-logo--mas {
+  background-position: 0 -5995px
+}
+
+.c-bank-logo--tiny.c-bank-logo--mas {
+  background-position: 0 -1524px
+}
+
+.c-bank-logo--small.c-bank-logo--mas {
+  background-position: 0 -3270px
+}
+
+.c-bank-logo--bare.c-bank-logo--mas {
+  background-position: 0 -2615px
+}
+
+.c-bank-logo--prima {
+  background-position: 0 -6050px
+}
+
+.c-bank-logo--tiny.c-bank-logo--prima {
+  background-position: 0 -1538px
+}
+
+.c-bank-logo--small.c-bank-logo--prima {
+  background-position: 0 -3300px
+}
+
+.c-bank-logo--bare.c-bank-logo--prima {
+  background-position: 0 -2639px
+}
+
+.c-bank-logo--shinhan {
+  background-position: 0 -6105px
+}
+
+.c-bank-logo--tiny.c-bank-logo--shinhan {
+  background-position: 0 -1552px
+}
+
+.c-bank-logo--small.c-bank-logo--shinhan {
+  background-position: 0 -3330px
+}
+
+.c-bank-logo--bare.c-bank-logo--shinhan {
+  background-position: 0 -2663px
+}
+
+.c-bank-logo--yudha_bakti {
+  background-position: 0 -6160px
+}
+
+.c-bank-logo--tiny.c-bank-logo--yudha_bakti {
+  background-position: 0 -1566px
+}
+
+.c-bank-logo--small.c-bank-logo--yudha_bakti {
+  background-position: 0 -3360px
+}
+
+.c-bank-logo--bare.c-bank-logo--yudha_bakti {
+  background-position: 0 -2687px
+}
+
+.c-bank-logo--bsi {
+  background-position: 0 -6215px
+}
+
+.c-bank-logo--tiny.c-bank-logo--bsi {
+  background-position: 0 -1580px
+}
+
+.c-bank-logo--small.c-bank-logo--bsi {
+  background-position: 0 -3390px
+}
+
+.c-bank-logo--bare.c-bank-logo--bsi {
+  background-position: 0 -2711px
+}
+
+.c-bank-logo--cimb_syr {
+  background-position: 0 -6270px
+}
+
+.c-bank-logo--tiny.c-bank-logo--cimb_syr {
+  background-position: 0 -1594px
+}
+
+.c-bank-logo--small.c-bank-logo--cimb_syr {
+  background-position: 0 -3420px
+}
+
+.c-bank-logo--bare.c-bank-logo--cimb_syr {
+  background-position: 0 -2735px
+}
+
+.c-bank-logo--permata_syr {
+  background-position: 0 -6325px
+}
+
+.c-bank-logo--tiny.c-bank-logo--permata_syr {
+  background-position: 0 -1608px
+}
+
+.c-bank-logo--small.c-bank-logo--permata_syr {
+  background-position: 0 -3450px
+}
+
+.c-bank-logo--bare.c-bank-logo--permata_syr {
+  background-position: 0 -2759px
+}
+
+.c-bank-logo--sakuku {
+  background-position: 0 -6380px
+}
+
+.c-bank-logo--tiny.c-bank-logo--sakuku {
+  background-position: 0 -1622px
+}
+
+.c-bank-logo--small.c-bank-logo--sakuku {
+  background-position: 0 -3480px
+}
+
+.c-bank-logo--bare.c-bank-logo--sakuku {
+  background-position: 0 -2783px
+}
+
+.c-bank-logo--maybank {
+  background-position: 0 -6435px
+}
+
+.c-bank-logo--tiny.c-bank-logo--maybank {
+  background-position: 0 -1636px
+}
+
+.c-bank-logo--small.c-bank-logo--maybank {
+  background-position: 0 -3510px
+}
+
+.c-bank-logo--bare.c-bank-logo--maybank {
+  background-position: 0 -2807px
+}
+
+.c-bank-logo--aladin {
+  background-position: 0 -6490px
+}
+
+.c-bank-logo--tiny.c-bank-logo--aladin {
+  background-position: 0 -1650px
+}
+
+.c-bank-logo--small.c-bank-logo--aladin {
+  background-position: 0 -3540px
+}
+
+.c-bank-logo--bare.c-bank-logo--aladin {
+  background-position: 0 -2831px
+}
+
+.c-bank-logo--qris {
+  background-position: 0 -6545px
+}
+
+.c-bank-logo--tiny.c-bank-logo--qris {
+  background-position: 0 -1664px
+}
+
+.c-bank-logo--small.c-bank-logo--qris {
+  background-position: 0 -3570px
+}
+
+.c-bank-logo--bare.c-bank-logo--qris {
+  background-position: 0 -2855px
+}
